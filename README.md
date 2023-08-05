@@ -3,7 +3,8 @@
 
 ## Contributions:
 * [Bharathwaj](https://github.com/BharathwajManoharan)
-* [Hari Haran](https://github.com/hariharan0509)
+* [Hariharan](https://github.com/hariharan0509)
+  
 ## Technologies and Tools
 * Python (numpy,scipy,scilit-learn,matplotlib,pandas)
 * Flask,Request,Werkzeug,gunicorn
