@@ -1,6 +1,9 @@
 ## IPL First Inning Score Prediction
 > This project is about predicting the score of the batting first team in IPL 2021. It's a web application built using Flask, a popular Python-based web framework, and machine learning algorithms.
 
+## Contributions:
+* [Bharathwaj](https://github.com/BharathwajManoharan)
+* [Hari Haran](https://github.com/hariharan0509)
 ## Technologies and Tools
 * Python (numpy,scipy,scilit-learn,matplotlib,pandas)
 * Flask,Request,Werkzeug,gunicorn
